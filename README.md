@@ -1,18 +1,21 @@
 # TheLorax
 
 Libraries/Frameworks Used:
-Tensorflow
-Keras
-React
-numpy
+- Tensorflow (Both tf.py, and tf.js)
+- Keras
+- React
+- numpy
+- pandas
+- React native
+- axios
 
 Languages:
-Js
-Python
+- Js
+- Python
 
 Resources Used:
-Stackoverflow (god bless)
-Tensorflow/Keras Documentation
-React Documentation
+- Stackoverflow (god bless)
+- Tensorflow/Keras Documentation
+- React Documentation
 
  
